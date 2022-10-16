@@ -1,6 +1,5 @@
 # AUROC_comparison
-
-
+An implement of Delong ROC comparison in python.
 
 ## reference
 ### 1. https://pamixsun.github.io/update/2015/08/31/roc-analysis-tool-with-delongs-method/
