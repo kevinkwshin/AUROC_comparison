@@ -2,9 +2,9 @@
 
 
 
-reference
-https://pamixsun.github.io/update/2015/08/31/roc-analysis-tool-with-delongs-method/
-https://github.com/yandexdataschool/roc_comparison
+## reference
+### 1. https://pamixsun.github.io/update/2015/08/31/roc-analysis-tool-with-delongs-method/
+### 2. https://github.com/yandexdataschool/roc_comparison
 
-Thanks to:
+## Thanks to :
 Hahn Yi
