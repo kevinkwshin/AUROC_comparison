@@ -6,5 +6,4 @@
 ### 1. https://pamixsun.github.io/update/2015/08/31/roc-analysis-tool-with-delongs-method/
 ### 2. https://github.com/yandexdataschool/roc_comparison
 
-## Thanks to :
-Hahn Yi
+## Special thanks to : Hahn Yi
